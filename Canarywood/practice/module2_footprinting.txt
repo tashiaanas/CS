@@ -1,0 +1,204 @@
+search engine--- ask, aol, Wolframalpha, baidu
+
+eff.org - non profil digital rights foundation
+ 
+https://www.redwagon.agency/ultimate-guide-to-search-engine-queries/ - google dork 
+intitle:intranet inurl:intranet+intext:"human resources"
+location:
+jasmin:jpg
+cache:www.eff.org
+https://www.exploit-db.com/
+
+google advance search--
+https://www.google.co.in/advanced_search
+
+https://www.google.com/advanced_image_search
+
+reverse image--
+https://www.google.com/imghp?hl=EN
+https://tineye.com/
+yahoo bing
+
+Video search--
+https://citizenevidence.amnestyusa.org/  -- Youtube DataViewer
+https://ezgif.com/
+https://www.videoreverser.com/
+
+meta search--use other search engine like google bing ask
+
+https://www.startpage.com/
+https://metager.org/
+https://www.etools.ch/
+
+eTools.ch searches major Swiss and international search engines and offer you the best results in full privacy!
+
+The following 17 search engines are queried in parallel:
+
+Ask
+Base
+Bing
+Brave
+DuckDuckGo
+Exalead
+Fastbot
+Findx
+Google
+Mojeek
+Moose
+Qwant
+Search
+Tiger
+Wikipedia
+Yahoo
+Yandex
+
+FTP search--
+
+https://www.searchftps.net/ -- napalm ftp indexer
+global ftp search engine
+http://www.freewareweb.com/
+
+IOT search--
+
+https://www.shodan.io/
+https://censys.io/
+https://www.thingful.net/
+
+Toplevel domain(TLD)--
+
+site:microsoft.com -inurl:www
+netcraft, sublist3r
+
+sublist3r -d microsoft.com -p port -e engine -o output
+https://pentest-tools.com
+
+geographical location--
+gogole earth, google map, wikimapia
+www.intelius.com
+
+people serach--
+pipl, intelius, beenverified, whitepages, peekyou, anywho
+
+theharvester -- command line
+theHarvestrt -d microsoft -l 200 -b linkedin
+
+usage: theHarvester [-h] -d DOMAIN [-l LIMIT] [-S START] [-g] [-p] [-s]
+                    [--screenshot SCREENSHOT] [-v] [-e DNS_SERVER]
+                    [-t DNS_TLD] [-r] [-n] [-c] [-f FILENAME] [-b SOURCE]
+theHarvester: error: the following arguments are required: -d/--domain
+
+financing-
+msn money. investing.com
+
+job-
+linkedin, dice,simplihired
+
+deep web- 
+tor, WWW virtual library
+
+dark-
+tor, exoneraTor
+
+onionland search engine
+
+OS-
+shodan, censys, netcraft
+
+Voip and vpn-
+shodan
+
+Compettive intelligence
+
+when it begin - edgar, lexixnexix, D&B hoovers, factiva, Businesswire
+
+company plans- market watch, alexa, Uspto, Wallstreet transcript, experian, euromonitor,Sec info, search monitor
+
+what expert says- similar web, ABI/Inform global, attentionmeter, SEM rush
+
+Business profile -- open corporates, crunchbase, corporation wiki
+
+Alerts- google twiter, giga
+
+online reputation of target- mention
+
+Newsgroups- NNTP(n/w news transfer protocol) USenet-- newshosting, eweka, supernews
+
+locate info in social media -
+
+Buzzsumo
+google trend
+hashatit
+ubersuggest
+
+location serach in social media- followerwonk, hootsuit, sysomos
+
+footprint thrue social media- sherlock, social searcher, userrecon
+
+websie footprint- burpsuite, zaproxy, wappalyzer, website informer
+using web spider- user direct spidering--- web data extracter
+
+mirror website- httrack, ncollector studio
+archive.org
+
+extract website link- octoparse, netspeak spider, link extractor
+
+gather wordlist from target- cewl domain, cewl --email domain
+
+metadata extraction--metagoofil
+webpage for update and change- 
+
+website watcher
+
+email service- 
+thunder bird
+emclient
+hiri
+mailbird lite
+spike
+claws mail
+smarter mail
+outlook
+
+email tracking-- infoga, email tracker pro
+
+whois lookup--
+
+domaintools.com
+tamos.com
+
+ip geolocation--
+
+ip2location.com
+
+DNS info--
+
+https://tools.dndstuff.com
+network-tools.com
+
+Reverse DNS lookup-
+
+DNSrecon
+dnsrecon -r range
+
+Reverse IP domain check -
+yougetsignal.com
+
+Network range--
+arin.net
+
+Trace route--
+icmp- tracert ip
+tcp- tcptraceroute domain
+udp- traceroute domain
+
+pathanalyserpro
+visualroute
+
+Tools-
+FOCA
+OSRFramework
+OSINT framework
+maltego
+recon-ng
+recon-dog
+billcypher

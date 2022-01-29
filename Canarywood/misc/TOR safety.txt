@@ -1,0 +1,76 @@
+How to safely browse deep web? 
+Security Tips
+
+You must have heard of dark web or deep web and as you
+know its a scary place and its full of skilled cyber
+criminals. So it becomes necessary to secure yourself
+while visiting this wild part of internet. Today I am going
+to tell you about some precautions that you should must
+use while surfing dark web.
+Secure Your Browser
+Securing your browser must be your top priority as hackers
+can exploit it to gain access to your machine. So lets talk
+about some ways by which you can make your browser
+more hardened.
+1. If a website doesn’t use HTTPS, don’t use it.
+2. Disable JavaScript using NoScript plugin
+3. Disable all the plug ins as they can be used to track/
+exploit your system
+4. Don’t use search Engines like Google which track you.
+Instead, go for DuckDuckGo which doesn’t keep the
+records or inject tracking cookies into your browser
+5. If you download something from the dark web its ok
+but consider opening it in a sandbox or a virtual
+machine.
+6. Don’t use torrent because torrent uses a peer to peer
+connection instead of using TOR network.
+7. Don’t maximize TOR browser’s windows as it can be
+used to determine screen size of your device.
+Secure your browser even more
+Enter about:config in your browser tab and press enter.
+Then make the following changes:
+javascript.enabled false
+network.http.sendRefererHeader 0
+network.http.sendSecureXSiteReferrer false
+extensions.torbutton.saved.sendSecureXSiteReferrer
+false
+network.cookie.cookieBehavior 2
+browser.cache.memory.enable false
+Secure Your Operating System
+If your operating systems is easy to hack then it could be a
+problem…a really really bad problem.
+1. Don’t use windows because windows is really very
+easy to exploit, prefer Linux .
+2. Its good to use tor in a virtual machine so you can
+minimize the damage in case you get infected by
+some malware.
+3. Use a firewall .
+4. Keep your system up to date.
+Secure Your Identity
+And the most important thing is to hide your identity.
+1. If you have to sign up for something, use a
+disposable email service such as throwawaymail
+2. Choose usernames and passwords carefully. They
+should not have any kind of link to your real identity.
+3. Send messages in chat rooms only when its
+necessary and do not reveal any kind of information.
+4. You will eventually find scam sites and phishing sites,
+so use your mind and stay away from them.
+5. Don’t do something which might grab attentions of
+legal authorities like watching child porn. Do not
+watch child porn at all, even for the sake of curiosty.
+Stay away from it.
+6. If you have to upload an image somewhere, wipe its
+exif data first. And don’t upload any photos which
+reveal anything about your personal life. Like the color
+of your cat.
+Still not secure? Here you go!
+1. Get a new laptop
+2. Get a new USB and install Tails in it. Tails is an Linux
+distro dedicated to security and privacy.
+3. Now install tor and set TOR browser’s security setting
+to high.
+4. Follow all the security measures we have discussed
+above.
+5. Thats all.
+Keep learning! Stay safe!
